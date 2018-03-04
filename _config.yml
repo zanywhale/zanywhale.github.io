@@ -4,7 +4,7 @@
 ####################################
 #
 title: zanywhale
-email: zanywhale@gmail.com
+email: zanywhale@kaist.ac.kr
 description: A simple and awesome blog theme powered by jekyll.
 url: https://zanywhale.github.io # the base hostname & protocol for your site
 keywords: ["Security", "CTF", "Python"]
@@ -14,7 +14,7 @@ keywords: ["Security", "CTF", "Python"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Korea
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -37,13 +37,13 @@ owner:
   avatar: zanywhale-logo.png
   job: "Computer Security Researcher"
   bio: "zanywhale"
-  email: zanywhale@gmail.com
+  email: zanywhale@kaist.ac.kr
   disqus-shortname: zanywhale
   twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics: UA-62251910-2
+    analytics: 
     verify:
     ad-client:
     ad-slot:
