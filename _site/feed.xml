@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leonids</title>
+    <title>zanywhale</title>
     <description>A simple and awesome blog theme powered by jekyll.</description>
-    <link>https://renyuanz.github.io/leonids/</link>
-    <atom:link href="https://renyuanz.github.io/leonids/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Mar 2018 03:03:40 +0100</pubDate>
-    <lastBuildDate>Sun, 04 Mar 2018 03:03:40 +0100</lastBuildDate>
+    <link>https://zanywhale.github.io/</link>
+    <atom:link href="https://zanywhale.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 04 Mar 2018 04:08:46 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Mar 2018 04:08:46 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
   </channel>
