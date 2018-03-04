@@ -1,0 +1,22 @@
+<h1>
+  <i class="fa fa-flag-checkered"></i>
+  <span data-i18n="skills.my_skills">&nbsp; Award</span>
+</h1>
+
+<div>
+  <ul>
+    {% for years in (2015..2017) reversed %}
+    <li>
+      <strong> {{ years }} </strong>
+      <ul>
+        {% for award in site.data.index.award %}
+          {% if award.year == years %}
+            <li> {{ award.month }}'&nbsp; {{ award.descr }} </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </li>
+    <br>
+    {% endfor %}
+  </ol>
+</div>
