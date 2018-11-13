@@ -1,3 +1,5 @@
-- name: Monitor mode를 이용한 모바일 디바이스 사용자 추적 방안에 관한 연구
-  descr: <em>Conference on Information Security and Cryptography 2017 Winter<em>
-#  link: http://zanywhale.com/publications/CISC-W_2017_paper_76.pdf
+- title: "CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines"
+  howto: (to appear)
+  where: In <em>Proceedings of the Network and Distributed System Security Symposium</em>
+  year : 2019
+  authors: HyungSeok Han, <strong>DongHyeon Oh</strong>, and Sang Kil Cha.

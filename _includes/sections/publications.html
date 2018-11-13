@@ -1,15 +1,17 @@
 <h1>
-  <i class="fa fa-book"></i>
-  <span data-i18n="skills.my_skills">&nbsp; Publications</span>
+    <i class = "fa fa-book"> </i>
+    <span data-i18n="skills.my_skills">Publications</span>
 </h1>
 
 <div>
-  <ul>
-    {% for pub in site.data.index.publications %}
-    <li>
-      {{ pub.name }} [<a href="{{ pub.link }}">PDF</a>]
-      <br>{{ pub.descr }}
-    </li>
+  <ol>
+    {% for paper in site.data.index.publication %}
+        <li>
+            <strong>{{paper.title}} {{paper.howto}}</strong><br>
+            {{paper.authors}}<br>
+            {{paper.where}} , {{paper.year}}
+        </li>
+        <br>
     {% endfor %}
-  <ul>
+  </ol>
 </div>

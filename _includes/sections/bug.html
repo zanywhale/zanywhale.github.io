@@ -1,0 +1,24 @@
+<h1>
+    <i class = "fa fa-bug"> </i>
+    <span data-i18n="skills.my_skills">Bug Reports</span>
+</h1>
+
+<div>
+  <ul>
+    {% for y in (2018..2018) reversed %}
+    <li>
+        <strong>{{y}}</strong>
+        <ul>
+        {% for bug in site.data.index.bug %}
+           {% if bug.year == y %}
+                <li>
+                {{bug.descr}}
+                </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    </li>
+        {% endfor %}
+    <br>
+  </ol>
+</div>
