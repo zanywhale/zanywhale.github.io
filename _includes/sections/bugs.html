@@ -12,7 +12,7 @@
         {% for bug in site.data.index.bug %}
            {% if bug.year == y %}
                 <li>
-                {{bug.descr}}
+                {{bug.descr}} <a href="{{ bug.link }}" (Link)</a>
                 </li>
             {% endif %}
         {% endfor %}
