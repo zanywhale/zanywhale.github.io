@@ -1,3 +1,7 @@
 - descr: <strong>CVE-2018-4372</strong>, Processing maliciously crafted web content may lead to arbitrary code execution in Safari
   year : 2018
   link : https://support.apple.com/en-us/HT209196
+
+- descr: <strong>CVE-2018-4378</strong>, Processing maliciously crafted web content may lead to code execution in Safari
+  year : 2018
+  link : https://support.apple.com/en-us/HT209196
