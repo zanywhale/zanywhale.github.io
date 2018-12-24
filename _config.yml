@@ -6,7 +6,7 @@
 title: zanywhale
 email: zanywhale@kaist.ac.kr
 description: A simple and awesome blog theme powered by jekyll.
-url: http://zanywhale.com # the base hostname & protocol for your site
+url: https://zanywhale.com # the base hostname & protocol for your site
 keywords: ["Security", "CTF", "Python"]
 
 #
