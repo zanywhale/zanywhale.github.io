@@ -1,3 +1,7 @@
+- descr: <strong>crbug-878805</strong>, V8 bug (Not security)
+  year : 2018
+  link : https://bugs.chromium.org/p/chromium/issues/detail?id=878805
+
 - descr: <strong>CVE-2018-4464</strong>, Arbitrary code execution in JavaScriptCore of Safari
   year : 2018
   link : https://support.apple.com/en-us/HT209344
