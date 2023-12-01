@@ -7,6 +7,7 @@ title: zanywhale
 email: zanywhale@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: https://zanywhale.com # the base hostname & protocol for your site
+keywords: ["Security", "CTF", "Python"]
 
 #
 ###################################
