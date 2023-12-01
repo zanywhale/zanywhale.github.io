@@ -4,10 +4,9 @@
 ####################################
 #
 title: zanywhale
-email: zanywhale@kaist.ac.kr
+email: zanywhale@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: https://zanywhale.com # the base hostname & protocol for your site
-keywords: ["Security", "CTF", "Python"]
 
 #
 ###################################
@@ -37,7 +36,7 @@ owner:
   avatar: zanywhale-logo.png
   job: "Computer Security Researcher"
   bio: "zanywhale"
-  email: zanywhale@kaist.ac.kr
+  email: zanywhale@gmail.com
   disqus-shortname: zanywhale
   twitter: #username
   facebook: #username

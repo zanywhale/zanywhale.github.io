@@ -1,0 +1,17 @@
+<h1>
+    <i class = "fa fa-suitcase"> </i>
+    <span data-i18n="skills.my_skills">Work Experience</span>
+</h1>
+
+<div>
+  <ul>
+    {% for career in site.data.index.work %}
+        <li>
+            <strong>{{ career.date }}</strong> <br>
+            {{career.descr}}
+            <a href="{{ career.link }}">@{{ career.name }}</a>
+        </li>
+        <br>
+    {% endfor %}
+  </ul>
+</div>
